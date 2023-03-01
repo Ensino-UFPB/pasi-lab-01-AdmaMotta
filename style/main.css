@@ -1,0 +1,19 @@
+body {
+    background-color: powderblue;
+  }
+
+#post1{
+    text-align: center;
+}
+
+#post2{
+    display: flex;
+}
+
+#tabela{
+    margin-left: 40%;
+}
+
+#mini_biografia{
+    padding-left: 10px;
+}
